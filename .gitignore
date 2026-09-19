@@ -1,0 +1,38 @@
+# Builds
+*.exe
+*.dll
+*.zip
+*.rar
+*.7z
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Logs / temp
+*.log
+*.tmp
+*.cache
+temp/
+tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
